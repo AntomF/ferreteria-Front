@@ -1,0 +1,93 @@
+table {
+   border-collapse: collapse;
+   border: 2px solid black;
+   border-spacing: 1;
+   width: 95%;
+   background-color: white;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 5px;
+   margin-bottom: 15px;
+   border-radius: 15px;
+   overflow-y: auto;
+   
+}
+  
+  
+th {
+    background-color: rgb(241, 157, 129);
+    font-weight: bold;
+    padding: 8px;
+    border: 2px solid black;
+}
+
+
+td{
+  border: 2px solid black;
+}
+
+.contenedorFondo{
+    background-color: rgb(217, 217, 217);
+    border-radius: 15px;
+    width: 80%;
+    max-height: 750px;
+    float:left;
+    position: relative;
+    margin-left: 15px;
+    
+}
+
+.imagenAccion{
+    width:30px;
+    height: 30px;
+    border-image: auto;
+    min-width: 20px;
+}
+
+.buttonAgregar{
+  background-color: rgb(98, 201, 102);
+  height: 40px;
+  width: 190px;
+  font-size: 18px;
+  border-radius: 10px;
+  margin-top: 15px;
+  max-width: 250px;
+  
+}
+.buttonEliminar{
+  background-color: rgb(240, 104, 107);
+  height: 40px;
+  width: 170px;
+  font-size: 18px;
+  border-radius: 10px;
+  margin-top: 15px;
+  
+}
+.buttonModificar{
+  background-color: rgb(71, 226, 229);
+  height: 40px;
+  width: 190px;
+  font-size: 18px;
+  border-radius: 10px;
+  margin-top: 15px;
+  max-width: 250px;
+  
+}
+.input-text{
+  width: 300px;
+  height: 30px;
+  border-radius: 10px;
+}
+select{
+  width: 300px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+body{
+  left: 20%;
+}
+.contenedorTabla{
+  overflow-y: auto;
+  max-height: 450px;
+}

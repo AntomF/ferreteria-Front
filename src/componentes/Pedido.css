@@ -1,0 +1,7 @@
+.opciones-row.hovered {
+    background-color: #e0ffe0;
+  }
+ .modal-scroll{
+  max-height: 600px;
+  overflow-y: auto;
+ }

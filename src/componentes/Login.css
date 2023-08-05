@@ -1,0 +1,94 @@
+
+.login-form {
+  position: absolute;
+  padding: 1rem;
+  width: 50%;
+  height:95% ;
+  overflow-y: auto;
+  background-color:rgb(241, 157, 129);
+  border-radius: 10px;
+  }
+  .contenedor-Imagenes-login{
+    position: absolute;
+    left: 50%;
+    padding: 1rem;
+    width: 50%;
+    height:95% ;
+    overflow-y: auto;
+    background-color:rgb(99, 152, 184);
+    border-radius: 10px;
+    }
+
+  .contenedorFondo-login{
+    background-color: rgb(238, 69, 7);
+    border-radius: 15px;
+    width: 50%;
+    height: 70%;
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    
+
+    margin-left: 15px;
+}
+.input-login{
+  position: relative;
+  left: 30%;
+  width: 200px;
+  height: 40px;
+  border-radius: 10px;
+  
+
+}
+  
+  .login-form h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    
+  }
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+
+  .buttonIngresar{
+    background-color: rgb(23, 79, 135);
+    color: white;
+    height: 40px;
+    width: 190px;
+    font-size: 18px;
+    border-radius: 10px;
+    margin-top: 15px;
+    max-width: 250px;
+    
+  }
+  p{
+    font-size: 18px;
+  }
+
+  .imagen-login{
+    margin-top: 15px;
+    height: 150px;
+    width: 270px;
+    border-image: auto;
+    align-items: center;
+    min-width: 100px;
+}
+
+.imagen-login2{
+  margin-top: 15px;
+  width: 220px;
+  height: 200px;
+  border-image: auto;
+  align-items: center;
+  min-width: 100px;
+}
+  
+  

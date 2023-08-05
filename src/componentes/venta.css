@@ -1,0 +1,32 @@
+.opciones-row.hovered {
+    background-color: #e0ffe0;
+  }
+  
+  .custom-table {
+    width: 70%;
+    border-collapse: collapse;
+  }
+  
+  .custom-table th, .custom-table td {
+    padding: 5px;
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .custom-table th {
+    background-color: #f5f5f5;
+  }
+  
+  .custom-table tr:last-child td {
+    font-weight: bold;
+  }
+  
+  .custom-table tr:last-child td:first-child {
+    border-top: 1px solid #ccc;
+  }
+  
+  .custom-table td:last-child {
+    text-align: right;
+  }
+  
+  

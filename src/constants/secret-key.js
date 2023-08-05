@@ -1,0 +1,1 @@
+export const secretkey='uyp$lxPZFG64Ehx87IW%40mdv4g%43';
